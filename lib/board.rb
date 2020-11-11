@@ -83,10 +83,3 @@ class Board
     false
   end
 end
-
-# board = Board.new
-# board.drop_piece("X", 1)
-# board.drop_piece("X", 1)
-# board.drop_piece("O", 2)
-# board.drop_piece("O", 2)
-# board.display_board
